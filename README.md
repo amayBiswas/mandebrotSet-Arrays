@@ -5,4 +5,4 @@ I have previously made the same program on Python, and made it such that it comp
 
 As an added bonus to using MATLAB, the final image is a vector on a coordinate plane, allowing the user to see the axes and the gradients, but also gives the exciting ability to zoom into the graph and notice the fractal nature of the Set (with the only limitation being the resolution set at the beginning). 
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amayBiswas/mandebrotSet-Arrays)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amayBiswas/mandebrotSet-Arrays&file=Mandelbrot_Set_Array.m)
